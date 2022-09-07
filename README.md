@@ -54,4 +54,4 @@ The Paul and George shell is a simple UNIX-like command line interpreter that re
 
 ## AUTHORS
 * Paul Adegbiran-Ayinoluwa
-* George Nduka Okonkwo (Mr. Architect)
+* George Nduka
